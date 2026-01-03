@@ -522,7 +522,7 @@ STEPS
     line-height: 1;
 }
 
-.steps__para {
+.step__para {
     font-size: 14px;
     color: #718096;
     margin-top: 12px;
